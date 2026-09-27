@@ -39,41 +39,6 @@ I'm especially interested in turning interesting ideas into actual projects, exp
 ☁︎　✦　୨୧　🦋　୨୧　✦　☁︎
 
 ---
-
-## ✦ Things I'm Building
-
-### 🧬 MorphoLock
-**When your behaviour becomes your password.**
-
-A behavioural biometric security layer that explores whether tiny, involuntary **micro-tremor patterns** can help continuously verify who is actually using a device — combining signal processing, machine learning and hardware into a security system that works quietly in the background.
-
-`Python` `Machine Learning` `FFT` `Signal Processing` `Isolation Forest` `Arduino`
-
----
-
-### 🌐 KRYPTIQ
-**Seeing a cyber attack unfold in 3D.**
-
-A **3D Security Digital Twin** designed to turn an abstract network into something you can actually see, explore and interact with — modelling vulnerabilities, attack paths, threat propagation and potential blast radius.
-
-`Python` `FastAPI` `NetworkX` `React` `3D` `Cybersecurity`
-
----
-
-### 🩺 AI × Healthcare
-**Building at the intersection of intelligence and care.**
-
-Exploring how AI and intelligent systems can make healthcare technology more useful — from **clinical decision support and healthcare analytics to EHR systems, medical IoT and digital health**.
-
-`Healthcare AI` `EHR` `CDSS` `Medical IoT` `Data Analytics`
-
----
-
-<div align="center">
-
-✧･ﾟ: *✧･ﾟ:*　　*:･ﾟ✧*:･ﾟ✧
-
-</div>
 ---
 
 ## ✦ Things I'm Building
