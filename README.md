@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./508b4493-0fae-42ad-9f7b-a68cb5d97e67.png"<img width="1199" height="672" alt="github" src="https://github.com/user-attachments/assets/963e8d99-f10c-45f4-81db-f67e0197dde0" />
+<img src="./508b4493-0fae-42ad-9f7b-a68cb5d97e67.png"<img  alt="github" src="https://github.com/user-attachments/assets/963e8d99-f10c-45f4-81db-f67e0197dde0" />
  width="100%" alt="Katyayani Roy">
 
 <br><br>
