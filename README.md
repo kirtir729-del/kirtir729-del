@@ -202,5 +202,3 @@ I'd love to connect, collaborate, build something fun, or simply talk about tech
 ୨୧　☁️　🦋　♡　🌷　♡　🦋　☁️　୨୧
 
 ☁︎　✦　🌷　✦　🦋　✦　୨୧　✦　🐾　✦　☁︎
-
-</div>
