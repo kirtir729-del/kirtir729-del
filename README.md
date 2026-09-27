@@ -1,69 +1,91 @@
-<!-- ===================== BANNER ===================== -->
+YES — but **tiny blue doodles**, so it stays classic rather than becoming cluttered.
 
+I’d add little hand-drawn-style stars, clouds, flowers, bows, sparkles, and a tiny cat motif around the section breaks.
+
+Here’s the updated README:
+
+```markdown
 <div align="center">
 
 <img src="./assets/banner.jpg" width="100%" alt="Katyayani Roy">
 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&duration=2800&pause=900&color=2E6BE6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Katyayani+Roy+%F0%9F%8C%B7;AI+%C3%97+Healthcare+%C3%97+Cybersecurity;Building+things+that+actually+do+something;CSE+%7C+Health+Informatics+%7C+Builder" alt="Typing animation">
+
+<br>
+
+✦ ˚₊‧ ☁︎ ‧₊˚ ✦ ˚₊‧ ୨୧ ‧₊˚ ✦
+
+<a href="https://www.linkedin.com/in/katyayani-roy-b500lb3399">
+<img src="https://img.shields.io/badge/LinkedIn-2E6BE6?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+&nbsp;
+<a href="mailto:kirtir729@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-2E6BE6?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=2500&pause=700&color=2E6BE6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Katyayani+Roy+%F0%9F%8C%B7;AI+%C3%97+Healthcare+%C3%97+Cybersecurity;Health+Informatics+%7C+Builder+%7C+Organizer;Turning+Ideas+into+Intelligent+Systems" alt="Typing SVG">
-
-<p>
-  <img src="https://img.shields.io/badge/AI-2E6BE6?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Health%20Informatics-4C9AF5?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cybersecurity-183B63?style=for-the-badge&logo=hackthebox&logoColor=white">
-  <img src="https://img.shields.io/badge/IoT-73B8FF?style=for-the-badge&logo=arduino&logoColor=white">
-</p>
+☁︎  ⋆｡°✩  🦋  ✦  ♡  ✦  🌷  ⋆｡°✩  ☁︎
 
 </div>
 
 ---
 
-## 🌷 About Me
+## ୨୧ About
 
-I'm **Katyayani Roy**, a CSE — **Health Informatics** student who enjoys building things at the intersection of technology, intelligence, and real-world problems.
+I'm **Katyayani Roy**, a CSE — **Health Informatics** student interested in building intelligent systems at the intersection of:
 
-- 🤖 Exploring **AI, Machine Learning & AI Agents**
-- 🩺 Building around **Healthcare & Health Informatics**
-- 🛡️ Interested in **Cybersecurity & intelligent threat detection**
-- ⚙️ Working with **IoT, hardware & intelligent systems**
-- 🎪 Active in **hackathons, technical communities & event organization**
-- 👥 Interested in **HR, recruitment, team coordination & community building**
+`AI` · `Healthcare` · `Cybersecurity` · `IoT`
 
-> **I like turning ideas into things people can actually use.**
+> ✦ turning curious ideas into things that actually work
 
----
+˚₊‧ ─────────────── ‧₊˚
 
-## 🚀 What I'm Building
+## ☁︎ What I build
 
-### 🧬 MorphoLock
-**AI × Behavioural Biometrics × Cybersecurity**
+<div align="center">
 
-A behavioural biometric security layer designed to detect anomalous user behaviour through neuromuscular micro-tremor patterns.
+`🤖 AI / ML`　`🩺 Healthcare`
 
-**Focus:**  
-`Signal Processing` · `Feature Engineering` · `Machine Learning` · `Anomaly Detection` · `Cybersecurity` · `Hardware`
+`🛡️ Cybersecurity`　`⚙️ IoT`
 
----
+`🎪 Hackathons`　`👥 Communities`
 
-### 🌐 KRYPTIQ — 3D Security Digital Twin
+</div>
 
-A visual cybersecurity environment for simulating attacks across a network.
+✦ ˚₊‧‧₊˚ ✦
 
-**Exploring:**  
-`Network Graphs` · `Attack Simulation` · `Threat Visualization` · `Blast Radius` · `Choke Points` · `Temporal Replay` · `Counterfactual Defense`
+## 🌷 Featured
 
----
+### 🐾 MorphoLock
 
-### 🩺 AI × Healthcare
+`AI × Behavioural Biometrics × Cybersecurity`
 
-Exploring intelligent healthcare systems involving:
+Continuous authentication using behavioural micro-tremor patterns to detect anomalous activity.
 
-`EHR` · `CDSS` · `Healthcare Analytics` · `Medical IoT` · `Digital Health` · `Decision Support`
+`Python` `ML` `FFT` `Isolation Forest`
 
----
+### ✦ KRYPTIQ
 
-## 🧠 My Tech Stack
+`Cybersecurity × Digital Twin × 3D`
+
+A 3D security environment for visualising attack propagation, vulnerabilities and network blast radius.
+
+`Python` `FastAPI` `NetworkX` `React`
+
+☁︎ ───────── ✦ ───────── ☁︎
+
+## 🦋 Currently exploring
+
+`AI Agents` · `Machine Learning` · `Healthcare AI`
+
+`Cybersecurity` · `Data Analytics` · `Open Source`
+
+˚₊‧ ୨୧ ‧₊˚
+
+## ⚙︎ Tech
 
 **Languages**
 
@@ -75,91 +97,49 @@ Exploring intelligent healthcare systems involving:
 
 **Development**
 
-`React` `FastAPI` `Node.js` `Git` `GitHub` `Linux`
+`React` `FastAPI` `Node.js` `Git` `Linux`
 
 **Hardware**
 
-`Arduino` `IoT` `Sensors` `Embedded Systems`
+`Arduino` `IoT` `Embedded Systems`
 
-**Healthcare**
-
-`EHR` `HL7/FHIR` `DICOM` `SNOMED CT` `LOINC` `ICD`
-
----
-
-## 🛡️ Areas I'm Exploring
-
-```text
-Artificial Intelligence
-        ↓
-Machine Learning ──→ AI Agents
-        ↓
-Healthcare AI ─────→ Decision Support
-        ↓
-IoT & Sensors ─────→ Intelligent Systems
-        ↓
-Cybersecurity ─────→ Anomaly Detection
-        ↓
-Digital Twins ─────→ Security Simulation 🎪 Beyond Coding
-
-I also enjoy the people + execution side of technology.
-
-🎯 Recruitment & HR
-🧩 Team coordination
-🎤 Technical events
-💡 Hackathon ideation
-📢 Community building
-🤝 Collaboration
-📋 Event planning & operations
-
-Currently involved in AI/community leadership and technical event organization.
-
-🏆 Hackathons & Building
-
-Hackathons are where I like to combine:
-
-Research → Ideation → Engineering → Design → Teamwork → Presentation
-
-I enjoy working on problems where AI meets hardware, healthcare, cybersecurity, or real-world systems.
-
-🌱 Currently Learning
-
-AI Agents · Machine Learning · Cybersecurity · Healthcare AI
-Data Analytics · Full Stack Development · Open Source · System Design
-
-📊 GitHub
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=kirtir729-del
-&show_icons=true&hide_border=true&bg_color=F5FAFF&title_color=2E6BE6&icon_color=2E6BE6&text_color=183B63&border_radius=18" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=F5FAFF&title_color=2E6BE6&text_color=183B63&border_radius=18" /> </div>
-💙 A Little More About Me
-AI              → curious
-Healthcare      → meaningful
-Cybersecurity   → challenging
-Hardware        → fun
-Hackathons      → chaotic
-Leadership      → people + execution
-Building        → addictive
-Cats            → obviously necessary ## 💌 Let's Connect
+<br>
 
 <div align="center">
 
-<a href="https://github.com/kirtir729-del">
-<img src="https://img.shields.io/badge/GitHub-183B63?style=for-the-badge&logo=github&logoColor=white">
-</a>
+✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
 
-<a href="https://www.linkedin.com/in/katyayani-roy-b500lb3399">
-<img src="https://img.shields.io/badge/LinkedIn-2E6BE6?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=kirtir729-del&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2E6BE6&icon_color=2E6BE6&text_color=183B63&border_radius=12" height="155">
 
-<a href="mailto:kirtir729@gmail.com">
-<img src="https://img.shields.io/badge/Email-4C9AF5?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtir729-del&layout=compact&hide_border=true&bg_color=ffffff&title_color=2E6BE6&text_color=183B63&border_radius=12" height="155">
+
+*:･ﾟ✧*:･ﾟ✧ 　　 ✧･ﾟ: *✧･ﾟ:*
 
 <br><br>
 
-💌 ˚₊‧ ୨୧ ‧₊˚ <i>always open to interesting ideas, collaborations & conversations</i> ˚₊‧ ୨୧ ‧₊˚
+☁︎　✦　♡　⋆｡°✩　🌷　✦　☁︎
 
-<br><br>
+<sub>building · learning · experimenting</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E6BE6&height=100&section=footer">
+<br>
+
+<sub>૮ ˶ᵔ ᵕ ᵔ˶ ა</sub>
 
 </div>
+```
+
+### The doodle language I'd keep
+
+```text
+☁︎     clouds
+✦ ✧    sparkles
+୨୧     tiny bows
+♡      hearts
+🌷     flowers
+🦋     butterflies
+🐾     cat/paw detail
+૮ ˶ᵔ ᵕ ᵔ˶ ა    tiny cat
+˚₊‧     soft dividers
+```
+
+The important thing is **not to put doodles everywhere**. The banner + animated typing + small blue dividers + a few cute symbols will make it feel like a deliberately designed personal page rather than a giant technical résumé.
