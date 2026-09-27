@@ -1,7 +1,9 @@
 <div align="center">
 
 
-<img src="./508b4493-0fae-42ad-9f7b-a68cb5d97e67.png" ![Uploading github.jpg…]()
+
+<img src="./508b4493-0fae-42ad-9f7b-a68cb5d97e67.png" <img width="1199" height="672" alt="github" src="https://github.com/user-attachments/assets/2b43e254-aaf5-4ac4-95d3-fadb9b6a7c0d" />
+
 width="100%" alt="Katyayani Roy">
 
 <br><br>
