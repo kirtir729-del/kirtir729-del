@@ -1,15 +1,7 @@
-Absolutely. I’d make **Cybersecurity part of your profile again**, but position the whole profile around your broader identity:
-
-> **AI × Healthcare × Cybersecurity × Building × Community**
-
-So it doesn't look like you're *only* a Health Informatics student or *only* a cybersecurity person. It shows you as someone working across **AI, healthcare, security, hardware, and hackathons**.
-
-Here’s the redesigned **big, full profile README**:
-
-````markdown
 <div align="center">
 
-<img src="./508b4493-0fae-42ad-9f7b-a68cb5d97e67.png" width="100%" alt="Katyayani Roy">
+<img src="./508b4493-0fae-42ad-9f7b-a68cb5d97e67.png"<img width="1199" height="672" alt="github" src="https://github.com/user-attachments/assets/963e8d99-f10c-45f4-81db-f67e0197dde0" />
+ width="100%" alt="Katyayani Roy">
 
 <br><br>
 
@@ -24,13 +16,9 @@ Here’s the redesigned **big, full profile README**:
 <p>
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-2E6BE6?style=for-the-badge&logo=openai&logoColor=white">
-
 <img src="https://img.shields.io/badge/Health%20Informatics-4C9AF5?style=for-the-badge">
-
 <img src="https://img.shields.io/badge/Cybersecurity-183B63?style=for-the-badge&logo=hackthebox&logoColor=white">
-
 <img src="https://img.shields.io/badge/Machine%20Learning-73B8FF?style=for-the-badge&logo=tensorflow&logoColor=white">
-
 <img src="https://img.shields.io/badge/IoT-ADD8FF?style=for-the-badge&logo=arduino&logoColor=183B63">
 
 </p>
@@ -47,40 +35,24 @@ Here’s the redesigned **big, full profile README**:
 
           ──────── ☆ ────────
 
-             🐾         🐾
-````
+             🐾         🐾 </div>
+🩵 HELLO, I'M KATAYANI
+<table> <tr> <td width="65%" valign="top">
 
-</div>
+I'm a Computer Science & Engineering — Health Informatics student interested in building technology at the intersection of:
 
----
-
-# 🩵 HELLO, I'M KATAYANI
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-I'm a **Computer Science & Engineering — Health Informatics** student interested in building technology at the intersection of:
-
-### 🤖 Artificial Intelligence
-
-### 🩺 Healthcare
-
-### 🛡️ Cybersecurity
-
-### ⚙️ Intelligent Systems
+🤖 Artificial Intelligence
+🩺 Healthcare
+🛡️ Cybersecurity
+⚙️ Intelligent Systems
 
 I enjoy taking an idea, understanding the problem behind it, researching the technology, and turning it into something people can actually interact with.
 
 But coding isn't the only thing I enjoy.
 
-I'm equally interested in the **people and execution side of technology** — hackathons, recruitment, communities, event planning, team coordination, and creating environments where people can build together.
+I'm equally interested in the people and execution side of technology — hackathons, recruitment, communities, event planning, team coordination, and creating environments where people can build together.
 
-</td>
-
-<td width="35%" align="center">
-
-```text
+</td> <td width="35%" align="center">
           /\_/\\
          ( ˶ᵔ ᵕ ᵔ˶ )
           > ♡ <
@@ -94,19 +66,10 @@ I'm equally interested in the **people and execution side of technology** — ha
        └───────────┘
 
             ✦
-```
-
-</td>
-</tr>
-</table>
-
----
-
-# 🌷 MY TECH UNIVERSE
-
+</td> </tr> </table>            ✦
+</td> </tr> </table>
+🌷 MY TECH UNIVERSE
 <div align="center">
-
-```text
                            🧠
                     ARTIFICIAL
                    INTELLIGENCE
@@ -130,87 +93,50 @@ I'm equally interested in the **people and execution side of technology** — ha
                          ▼
                        ✨
                       IMPACT
-```
-
-</div>
-
----
-
-# 🧠 WHAT I'M INTERESTED IN
-
-<table>
-<tr>
-
-<td width="25%" valign="top">
-
-## 🤖 AI
-
-* Machine Learning
-* AI Agents
-* RAG
-* Predictive Systems
-* Intelligent Automation
-* Anomaly Detection
-* Decision Support
-* AI Systems
-
-</td>
-
-<td width="25%" valign="top">
-
-## 🩺 HEALTH
-
-* Health Informatics
-* EHR
-* CDSS
-* Healthcare Analytics
-* Medical Data
-* Digital Health
-* IoT Healthcare
-* Clinical Systems
-
-</td>
-
-<td width="25%" valign="top">
-
-## 🛡️ CYBER
-
-* Cybersecurity
-* Network Security
-* Threat Detection
-* Security Analytics
-* Behavioural Biometrics
-* Security Automation
-* Digital Twins
-* Secure Systems
-
-</td>
-
-<td width="25%" valign="top">
-
-## 🎪 COMMUNITY
-
-* Hackathons
-* Recruitment
-* Event Planning
-* Team Coordination
-* Community Building
-* Open Source
-* Technical Events
-* Leadership
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🧬 MY BUILDING PHILOSOPHY
-
+</div> </div>
+🧠 WHAT I'M INTERESTED IN
+<table> <tr> <td width="25%" valign="top">
+🤖 AI
+Machine Learning
+AI Agents
+RAG
+Predictive Systems
+Intelligent Automation
+Anomaly Detection
+Decision Support
+AI Systems
+</td> <td width="25%" valign="top">
+🩺 HEALTH
+Health Informatics
+EHR
+CDSS
+Healthcare Analytics
+Medical Data
+Digital Health
+IoT Healthcare
+Clinical Systems
+</td> <td width="25%" valign="top">
+🛡️ CYBER
+Cybersecurity
+Network Security
+Threat Detection
+Security Analytics
+Behavioural Biometrics
+Security Automation
+Digital Twins
+Secure Systems
+</td> <td width="25%" valign="top">
+🎪 COMMUNITY
+Hackathons
+Recruitment
+Event Planning
+Team Coordination
+Community Building
+Open Source
+Technical Events
+Leadership
+</td> </tr> </table>🧬 MY BUILDING PHILOSOPHY
 <div align="center">
-
-```text
                          💡
                         IDEA
                          │
@@ -237,23 +163,18 @@ I'm equally interested in the **people and execution side of technology** — ha
                          │
                          ▼
                        ✨ IMPACT
-```
-
 </div>
 
-> **Curiosity starts the project.
-> Building makes it real.
-> People make it meaningful.**
+Curiosity starts the project.
+Building makes it real.
+People make it meaningful.
 
----
-
-# 🩺 HEALTH INFORMATICS × AI
+🩺 HEALTH INFORMATICS × AI
 
 Healthcare is one of the spaces where technology can have a very real impact.
 
 I'm interested in how AI can transform healthcare data into useful intelligence.
 
-```text
                 RAW HEALTH DATA
                        │
                        ▼
@@ -275,35 +196,30 @@ I'm interested in how AI can transform healthcare data into useful intelligence.
                        ▼
                  REAL-WORLD
                    IMPACT
-```
+Areas I'm exploring
 
-### Areas I'm exploring
+Electronic Health Records
 
-`Electronic Health Records`
+Clinical Decision Support
 
-`Clinical Decision Support`
+Healthcare Analytics
 
-`Healthcare Analytics`
+Medical Data
 
-`Medical Data`
+AI Prediction
 
-`AI Prediction`
+IoT Healthcare
 
-`IoT Healthcare`
+Healthcare Interoperability
 
-`Healthcare Interoperability`
+Digital Health
 
-`Digital Health`
+🛡️ AI × CYBERSECURITY
 
----
-
-# 🛡️ AI × CYBERSECURITY
-
-Security fascinates me because modern systems aren't only about **building functionality**.
+Security fascinates me because modern systems aren't only about building functionality.
 
 They also need to understand:
 
-```text
         WHO?
          │
          ▼
@@ -323,30 +239,23 @@ They also need to understand:
          │
          ▼
        🛡️ SECURE
-```
 
 I'm particularly interested in using AI for:
 
-* Anomaly detection
-* Behavioural analysis
-* Threat detection
-* Security automation
-* Intelligent monitoring
-* Network intelligence
-* Digital twins
-* Secure AI systems
-
----
-
-# 🔬 FEATURED PROJECT
-
-# MorphoLock
-
-### `AI × Behavioural Biometrics × Security`
+Anomaly Detection
+Behavioural Analysis
+Threat Detection
+Security Automation
+Intelligent Monitoring
+Network Intelligence
+Digital Twins
+Secure AI Systems
+🔬 FEATURED PROJECT
+MorphoLock
+AI × Behavioural Biometrics × Security
 
 A machine-learning prototype exploring behavioural signals for continuous anomaly detection.
 
-```text
                          USER
                            │
                            ▼
@@ -369,34 +278,20 @@ A machine-learning prototype exploring behavioural signals for continuous anomal
                            │
                            ▼
                     🛡️ DECISION
-```
+Technical Focus
 
-### Technical Focus
+Python · Machine Learning · Signal Processing · FFT · Feature Engineering · Isolation Forest · Arduino · Real-time Inference
 
-```text
-Python
-Machine Learning
-Signal Processing
-FFT
-Feature Engineering
-Isolation Forest
-Arduino
-Real-time Inference
-```
+Core idea
 
-### Core idea
+Instead of relying only on static authentication, MorphoLock explores behavioural signals as a continuous layer of intelligence.
 
-Instead of relying only on static authentication, explore **behavioural signals** as a continuous layer of intelligence.
+🔗 Explore MorphoLock →
 
-🔗 **[Explore MorphoLock →](YOUR_MORPHOLOCK_LINK)**
-
----
-
-# 🧠 AI HEALTHCARE LAB
+🧠 AI HEALTHCARE LAB
 
 I'm also exploring intelligent healthcare systems.
 
-```text
                         🧠 AI
                          │
           ┌──────────────┼──────────────┐
@@ -413,35 +308,29 @@ I'm also exploring intelligent healthcare systems.
                          ▼
                   INTELLIGENT
                    HEALTHCARE
-```
+Areas I'm exploring
 
-### Current areas
+AI Prediction
 
-`AI Prediction`
+Clinical Decision Support
 
-`Clinical Decision Support`
+Healthcare Analytics
 
-`Healthcare Analytics`
+EHR Systems
 
-`EHR Systems`
+Medical Data
 
-`Medical Data`
+IoT Monitoring
 
-`IoT Monitoring`
+Healthcare Interoperability
 
-`Healthcare Interoperability`
+🔗 Explore Healthcare Work →
 
-🔗 **[Explore Healthcare Work →](YOUR_HEALTHCARE_LINK)**
+🛡️ CYBERSECURITY PROJECTS & EXPLORATION
 
----
+I'm interested in security systems where visualisation + AI + infrastructure come together.
 
-# 🛡️ CYBERSECURITY PROJECTS & EXPLORATION
-
-I'm interested in security systems where **visualisation + AI + infrastructure** come together.
-
-### Areas I'm exploring
-
-```text
+Areas I'm exploring
 Network Security
        ↓
 Threat Detection
@@ -453,15 +342,10 @@ Attack Simulation
 Risk Analysis
        ↓
 Defensive Intelligence
-```
-
-### Project concepts I've worked around
-
-**KRYPTIQ — 3D Security Digital Twin**
+KRYPTIQ — 3D Security Digital Twin
 
 A concept exploring network visualisation, attack simulation, graph-based infrastructure, and security intelligence.
 
-```text
              🌐 NETWORK
 
         ○──────○──────○
@@ -477,105 +361,74 @@ A concept exploring network visualisation, attack simulation, graph-based infras
                ↓
         🛡️ DEFENSIVE
          INTELLIGENCE
-```
+Exploration areas
 
-Areas include:
+Network Graphs
 
-`Network Graphs`
+Attack Simulation
 
-`Attack Simulation`
+Blast Radius
 
-`Blast Radius`
+Threat Visualisation
 
-`Threat Visualisation`
+Choke Points
 
-`Choke Points`
+Counterfactual Defence
 
-`Counterfactual Defence`
+Temporal Replay
 
-`Temporal Replay`
-
----
-
-# ⚙️ MY ENGINEERING INTERESTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Software
-
-* Python
-* C++
-* Java
-* JavaScript
-* TypeScript
-* React
-* FastAPI
-* Node.js
-* REST APIs
-* Git
-* GitHub
-
-</td>
-
-<td width="50%" valign="top">
-
-### Systems
-
-* Machine Learning
-* IoT
-* Embedded Systems
-* Data Pipelines
-* Network Systems
-* Security Systems
-* Signal Processing
-* Graph Systems
-* Hardware Prototyping
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ TECHNOLOGY STACK
-
+⚙️ ENGINEERING INTERESTS
+<table> <tr> <td width="50%" valign="top">
+💻 Software
+Python
+C++
+Java
+JavaScript
+TypeScript
+React
+FastAPI
+Node.js
+REST APIs
+Git
+GitHub
+</td> <td width="50%" valign="top">
+⚙️ Systems
+Machine Learning
+IoT
+Embedded Systems
+Data Pipelines
+Network Systems
+Security Systems
+Signal Processing
+Graph Systems
+Hardware Prototyping
+</td> </tr> </table>
+🛠️ TECHNOLOGY STACK
 <div align="center">
-
-### Languages
-
+Languages
 <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript">
 
 <br><br>
 
-### Development
-
+Development
 <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,git,github,linux,vscode">
 
 <br><br>
 
-### AI / Hardware
-
-<img src="https://skillicons.dev/icons?i=tensorflow,arduino">
-
-</div>
-
----
-
-# 🎪 THE ORGANISER SIDE
+AI / Hardware
+<img src="https://skillicons.dev/icons?i=tensorflow,arduino"> </div>
+🎪 THE ORGANISER SIDE
 
 One of the things I genuinely enjoy is making things happen.
 
 Not just:
 
-> "We should do this."
+"We should do this."
 
 But:
 
-> **"Okay. How do we actually make this happen?"**
+"Okay. How do we actually make this happen?"
 
-```text
                          💡
                         IDEA
                          │
@@ -599,33 +452,28 @@ But:
                          │
                          ▼
                       ✨ IMPACT
-```
+I enjoy working on
 
-### I enjoy working on
+Recruitment
 
-`Recruitment`
+Event Planning
 
-`Event Planning`
+Hackathon Operations
 
-`Hackathon Operations`
+Team Coordination
 
-`Team Coordination`
+Community Building
 
-`Community Building`
+Technical Events
 
-`Technical Events`
+Communication
 
-`Communication`
+Leadership
 
-`Leadership`
+🏆 HACKATHONS
 
----
+Hackathons are one of my favourite environments because they combine:
 
-# 🏆 HACKATHONS
-
-Hackathons are one of my favourite environments because they force you to combine:
-
-```text
 RESEARCH
    +
 IDEATION
@@ -639,29 +487,18 @@ TEAMWORK
 PRESENTATION
    =
 🚀 BUILD SOMETHING
-```
 
 I've explored projects across:
 
-### 🤖 AI
+🤖 AI
+🩺 Healthcare
+🛡️ Cybersecurity
+⚙️ Hardware
+🌐 Intelligent Systems
+🌐 COMMUNITY & LEADERSHIP
 
-### 🩺 Healthcare
+I enjoy working at the intersection of technology and people.
 
-### 🛡️ Cybersecurity
-
-### ⚙️ Hardware
-
-### 🌐 Intelligent Systems
-
----
-
-# 🌐 COMMUNITY & LEADERSHIP
-
-I enjoy working at the intersection of **technology and people**.
-
-My community interests include:
-
-```text
              COMMUNITY
                  │
        ┌─────────┼─────────┐
@@ -677,26 +514,21 @@ My community interests include:
                  │
                  ▼
                 GROWTH
-```
 
 I'm especially interested in creating communities where people can:
 
-* Learn
-* Build
-* Experiment
-* Collaborate
-* Compete
-* Share ideas
-
----
-
-# 🧠 HEALTHCARE + CYBERSECURITY
+Learn
+Build
+Experiment
+Collaborate
+Compete
+Share ideas
+🧠 HEALTHCARE + CYBERSECURITY
 
 One area I find particularly interesting is the intersection between these fields.
 
 Healthcare systems increasingly depend on:
 
-```text
 EHR
  │
  ├── Patient Data
@@ -713,29 +545,24 @@ EHR
        │
        ▼
    🛡️ SECURITY
-```
 
 Which creates fascinating problems around:
 
-`Medical Data Security`
+Medical Data Security
 
-`Healthcare IoT`
+Healthcare IoT
 
-`AI Security`
+AI Security
 
-`Privacy`
+Privacy
 
-`Access Control`
+Access Control
 
-`Threat Detection`
+Threat Detection
 
-`Secure Digital Health`
+Secure Digital Health
 
----
-
-# 📚 HEALTH INFORMATICS KNOWLEDGE MAP
-
-```text
+📚 HEALTH INFORMATICS KNOWLEDGE MAP
                        🩺 HEALTH
                           │
           ┌───────────────┼───────────────┐
@@ -753,37 +580,30 @@ Which creates fascinating problems around:
                           │
                           ▼
                     DIGITAL HEALTH
-```
+Areas of interest
 
-Areas of interest:
+HL7
 
-`HL7`
+FHIR
 
-`FHIR`
+SNOMED CT
 
-`SNOMED CT`
+LOINC
 
-`LOINC`
+ICD
 
-`ICD`
+DICOM
 
-`DICOM`
+EHR
 
-`EHR`
+CDSS
 
-`CDSS`
+CPOE
 
-`CPOE`
+Healthcare Analytics
 
-`Healthcare Analytics`
-
----
-
-# 🌱 CURRENTLY LEARNING
-
+🌱 CURRENTLY LEARNING
 <div align="center">
-
-```text
 AI Agents              ████████████████░░
 Machine Learning       ███████████████░░░
 Healthcare AI          ██████████████░░░░
@@ -794,15 +614,8 @@ Open Source            ██████████░░░░░░░
 System Design          █████████░░░░░░░░
 
         ✦ one step at a time ✦
-```
-
 </div>
-
----
-
-# 🔭 WHAT I WANT TO BUILD
-
-```text
+🔭 WHAT I WANT TO BUILD
                        🚀 FUTURE
                           │
           ┌───────────────┼───────────────┐
@@ -821,29 +634,23 @@ System Design          █████████░░░░░░░░
                        🌍
                     REAL WORLD
                       IMPACT
-```
 
 I'm especially interested in systems that combine:
 
-**AI + Healthcare**
+AI + Healthcare
 
-**AI + Cybersecurity**
+AI + Cybersecurity
 
-**AI + IoT**
+AI + IoT
 
-**Healthcare + Security**
+Healthcare + Security
 
-**Hardware + Intelligence**
+Hardware + Intelligence
 
-**Data + Decision Support**
+Data + Decision Support
 
----
-
-# 🐾 TINY PET PARADE
-
+🐾 TINY PET PARADE
 <div align="center">
-
-```text
 ☁️                                              ☁️
 
 
@@ -858,36 +665,21 @@ I'm especially interested in systems that combine:
 
 
                  ✦ ✦ ✦
-```
-
 </div>
-
----
-
-# 💻 GITHUB ACTIVITY
-
+💻 GITHUB ACTIVITY
 <div align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=F5FAFF&title_color=2E6BE6&icon_color=2E6BE6&text_color=183B63&border_radius=18">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=F5FAFF&title_color=2E6BE6&icon_color=2E6BE6&text_color=183B63&border_radius=18" alt="GitHub Stats">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=F5FAFF&title_color=2E6BE6&text_color=183B63&border_radius=18">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=F5FAFF&title_color=2E6BE6&text_color=183B63&border_radius=18" alt="Top Languages">
 
 <br><br>
 
-<img
-src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&background=F5FAFF&ring=2E6BE6&fire=73B8FF&currStreakLabel=2E6BE6&sideLabels=2E6BE6&hide_border=true&border_radius=18">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&background=F5FAFF&ring=2E6BE6&fire=73B8FF&currStreakLabel=2E6BE6&sideLabels=2E6BE6&hide_border=true&border_radius=18" alt="GitHub Streak">
 
 </div>
-
----
-
-# 📊 MY BUILDING LOOP
-
+📊 MY BUILDING LOOP
 <div align="center">
-
-```text
        🔎 EXPLORE
            │
            ▼
@@ -910,15 +702,8 @@ src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&backgroun
            │
            ▼
        🌱 LEARN AGAIN
-```
-
 </div>
-
----
-
-# 💭 RANDOM THINGS ABOUT ME
-
-```text
+💭 RANDOM THINGS ABOUT ME
 ✦ I like turning random ideas into actual projects.
 
 ✦ Hackathons are basically controlled chaos — and I enjoy it.
@@ -937,28 +722,16 @@ src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&backgroun
 
 ✦ And yes... there is probably another project idea
   somewhere in my notes right now.
-```
-
----
-
-# 🩵 MY INTEREST MAP
-
+🩵 MY INTEREST MAP
 <div align="center">
-
-|    🧠 AI   |   🩺 HEALTH  |     🛡️ CYBER     | ⚙️ SYSTEMS |  🎪 PEOPLE  |
-| :--------: | :----------: | :---------------: | :--------: | :---------: |
-|     ML     |      EHR     |  Threat Detection |     IoT    |  Hackathons |
-|   Agents   |     CDSS     | Anomaly Detection |  Hardware  | Recruitment |
-|     RAG    |   Analytics  |     Biometrics    |    APIs    |    Events   |
-| Prediction | Medical Data |    Security AI    |  Networks  | Communities |
-
+🧠 AI	🩺 HEALTH	🛡️ CYBER	⚙️ SYSTEMS	🎪 PEOPLE
+ML	EHR	Threat Detection	IoT	Hackathons
+Agents	CDSS	Anomaly Detection	Hardware	Recruitment
+RAG	Analytics	Biometrics	APIs	Events
+Prediction	Medical Data	Security AI	Networks	Communities
 </div>
-
----
-
-# 🌙 A LITTLE REMINDER
-
-```text
+🌙 A LITTLE REMINDER
+<div align="center">
               ☁️
 
         You don't need
@@ -989,29 +762,12 @@ src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&backgroun
         Repeat.
 
               ✦
-```
-
----
-
-# 💌 LET'S CONNECT
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-183B63?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-2E6BE6?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-73B8FF?style=for-the-badge&logo=gmail&logoColor=183B63">
-</a>
+</div>
+💌 LET'S CONNECT
+<div align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-183B63?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-2E6BE6?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-73B8FF?style=for-the-badge&logo=gmail&logoColor=183B63"> </a>
 
 <br><br>
 
-```text
           ☁️       ☁️       ☁️
 
              stay curious
@@ -1031,50 +787,8 @@ src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&backgroun
               > ♡ <
 
           ☁️       ☁️       ☁️
-```
+✦ Thanks for visiting my little corner of GitHub ✦
 
-### ✦ Thanks for visiting my little corner of GitHub ✦
-
-**AI • HEALTHCARE • CYBERSECURITY • BUILDING • COMMUNITY**
+AI • HEALTHCARE • CYBERSECURITY • BUILDING • COMMUNITY
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E6BE6,50:4C9AF5,100:ADD8FF&height=150&section=footer">
-
-</div>
-```
-
-### Before putting it on GitHub
-
-Replace these **5 placeholders**:
-
-```text
-YOUR_USERNAME
-YOUR_LINKEDIN
-YOUR_EMAIL
-YOUR_MORPHOLOCK_LINK
-YOUR_HEALTHCARE_LINK
-```
-
-And keep your uploaded image beside the README as:![Uploading image.png…]()
-
-
-```text
-YOUR_USERNAME/
-│
-└── README.md
-```
-
-For the banner reference to work, the image also needs to be in that repository as:
-
-```text
-YOUR_USERNAME/
-├── README.md
-└── 508b4493-0fae-42ad-9f7b-a68cb5d97e67.png
-```
-
-If you want **truly one physical file with the exact blue image embedded inside it**, that's possible by encoding the image directly into the README, but it will make the Markdown extremely large.
