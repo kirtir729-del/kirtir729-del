@@ -1,6 +1,6 @@
-<div align="center">
-
-# 𝓚𝓪𝓽𝔂𝓪𝔂𝓪𝓷𝓲 𝓡𝓸𝔂
+<div align="center"> <h1 align="center">
+  <font color="#2E6BE6">𝓚𝓪𝓽𝔂𝓪𝔂𝓪𝓷𝓲 𝓡𝓸𝔂</font>
+</h1>
 
 ### ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
 
