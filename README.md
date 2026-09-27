@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./508b4493-0fae-42ad-9f7b-a68cb5d97e67.png" 
-<img width="1199" height="672" alt="github" src="https://github.com/user-attachments/assets/2431bc06-2b0d-4578-ba5b-5dd3ac294c19" />
- width="100%" alt="Katyayani Roy">
+
+<img src="./508b4493-0fae-42ad-9f7b-a68cb5d97e67.png" ![Uploading github.jpg…]()
+width="100%" alt="Katyayani Roy">
 
 <br><br>
 
