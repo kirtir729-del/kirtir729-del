@@ -4,7 +4,8 @@
 <!--                        BANNER                              -->
 <!-- ========================================================= -->
 
-<img src="./assets/banner.png" width="100%" alt="Katyayani Roy">
+<img src="./assets/banner.png" ![Uploading github.jpg…]()
+width="100%" alt="Katyayani Roy">
 
 <br><br>
 
