@@ -1,24 +1,45 @@
 <div align="center">
 
-<!-- BANNER -->
-
 <img src="./assets/banner.jpg" width="100%" alt="Katyayani Roy">
 
 <br><br>
 
-<!-- NAME -->
+<!-- CUTE BLUE NAME -->
 
-<h1>
-  <span style="color:#2E6BE6;">𝓚𝓪𝓽𝔂𝓪𝔂𝓪𝓷𝓲 𝓡𝓸𝔂🌷</span>
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=42&duration=1&pause=1000&color=2E6BE6&center=true&vCenter=true&width=650&height=80&lines=Katyayani+Roy+%F0%9F%8C%B7" alt="Katyayani Roy">
 
-### ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
+<br>
 
-<!-- TYPING ANIMATION -->
+୨୧　☁️　✦　🦋　✦　🌷　✦　🦋　✦　☁️　୨୧
+
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&duration=2500&pause=800&color=2E6BE6&center=true&vCenter=true&width=700&lines=Health+Informatics+%7C+AI+%7C+Cybersecurity;Building+things+that+make+me+curious+%E2%9C%A6;AI+%C3%97+Healthcare+%C3%97+Intelligent+Systems;Always+learning%2C+always+building+%F0%9F%A6%8B" alt="Typing animation">
 
 <br>
+
+☁︎ ˚₊‧ ✦ ‧₊˚ ୨୧ ˚₊‧ ✦ ‧₊˚ ☁︎
+
+</div>
+
+---
+
+## ୨୧ Hello!
+
+I'm **Katyayani**, a CSE student specializing in **Health Informatics**.
+
+I like exploring the space where **technology meets real-world problems** — especially when that means mixing AI, healthcare, cybersecurity, hardware and a little bit of chaos.
+
+```text
+        🤖 AI
+         ↓
+     🩺 Healthcare
+         ↓
+    🛡️ Security
+         ↓
+    ⚙️ Intelligent Systems
+         ↓
+        ✦ IoT ✦
 
 ☁︎ ˚₊‧ ✦ ‧₊˚ ୨୧ ˚₊‧ ✦ ‧₊˚ ☁︎
 
