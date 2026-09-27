@@ -1,47 +1,14 @@
-Absolutely — let's make it **cute, blue, clean, and actually feel like a personal GitHub profile**, not a résumé dumped into Markdown.
-
-This version has:
-
-* 💙 blue aesthetic
-* 🐈 your cat banner
-* ✦ cute doodles
-* ✨ moving typing animation
-* 🌷 small, elegant sections
-* 🤖 AI + 🩺 Healthcare + 🛡️ Cybersecurity + ⚙️ IoT
-* MorphoLock + KRYPTIQ
-* leadership/hackathons without making it huge
-* GitHub stats
-* LinkedIn + Gmail only
-
-Replace your entire `README.md` with this:
-
-````markdown
 <div align="center">
 
-<!-- ─────────────── BANNER ─────────────── -->
-
-<img src="./assets/banner.jpg" width="100%" alt="Katyayani Roy">
-
-<br><br>
-
-<!-- ───────────── TYPING ANIMATION ───────────── -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=25&duration=2800&pause=900&color=2E6BE6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Katyayani+Roy+%F0%9F%8C%B7;AI+%C3%97+Healthcare+%C3%97+Cybersecurity;Health+Informatics+%7C+Builder+%7C+Organizer;Turning+ideas+into+intelligent+systems+%E2%9C%A6" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&duration=2800&pause=900&color=2E6BE6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Katyayani+Roy+%F0%9F%8C%B7;AI+%C3%97+Healthcare+%C3%97+Cybersecurity;Health+Informatics+%7C+Builder+%7C+Organizer;Turning+ideas+into+intelligent+systems+%E2%9C%A6" alt="Typing animation">
 
 <br>
 
-✦ ˚₊‧ ☁︎ ‧₊˚ ✦ ˚₊‧ ୨୧ ‧₊˚ ✦
-
-<br>
-
-<img src="https://img.shields.io/badge/AI-2E6BE6?style=flat-square&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Healthcare-4C9AF5?style=flat-square">
-<img src="https://img.shields.io/badge/Cybersecurity-183B63?style=flat-square&logo=hackthebox&logoColor=white">
-<img src="https://img.shields.io/badge/IoT-73B8FF?style=flat-square&logo=arduino&logoColor=white">
+`AI`　`Health Informatics`　`Cybersecurity`　`IoT`
 
 <br><br>
 
-☁︎　✦　♡　🌷　✦　🦋　✦　🐾　♡　✦　☁︎
+☁︎　✦　୨୧　♡　🦋　✦　🌷　✦　🐾　♡　୨୧　✦　☁︎
 
 </div>
 
@@ -49,65 +16,82 @@ Replace your entire `README.md` with this:
 
 ## ୨୧ About Me
 
-Hi! I'm **Katyayani Roy** — a CSE **Health Informatics** student who loves building things where technology meets the real world.
+Hi! I'm **Katyayani Roy**, a CSE student specializing in **Health Informatics**.
 
-I enjoy exploring the space between:
+I like building things at the intersection of:
 
-```text
-        🤖 Artificial Intelligence
-                 ↓
-        🩺 Healthcare Technology
-                 ↓
-        🛡️ Cybersecurity
-                 ↓
-        ⚙️ Intelligent Systems
-                 ↓
-             ✦ IoT ✦
-````
+**Artificial Intelligence × Healthcare × Cybersecurity × Intelligent Systems**
 
-I'm especially interested in ideas that combine **AI, healthcare, security, hardware and human-centered technology**.
+I'm curious about how technology can become more **useful, secure, intelligent and human-centered**.
 
-> *curious mind → chaotic builder → always learning* ˚₊‧
+Currently, I'm exploring AI agents, machine learning, healthcare technology, cybersecurity and systems that connect software with the real world.
+
+> *learn → build → break → improve → repeat* ✦
+
+<div align="center">
 
 `૮ ˶ᵔ ᵕ ᵔ˶ ა`
 
----
-
-<div align="center">
-
-✦ ─────────────── ☁︎ ─────────────── ✦
-
-</div>
-
-## 🌷 Things I Love Building
-
-<div align="center">
-
-|      🤖 AI     |  🩺 Healthcare | 🛡️ Cybersecurity |
-| :------------: | :------------: | :---------------: |
-|       ML       | Digital Health | Anomaly Detection |
-|    AI Agents   |   EHR / CDSS   |   Digital Twins   |
-| Data Analytics |   Medical IoT  |  Security Systems |
-
-</div>
-
-<div align="center">
-
-☁︎ ˚₊‧ ✦ ‧₊˚ ☁︎ ˚₊‧ ✦ ‧₊˚ ☁︎
-
 </div>
 
 ---
 
-## ✦ Featured Projects
+## 🌷 What I Like Building
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🤖 AI
+
+Machine Learning  
+AI Agents  
+Data Analytics  
+Intelligent Systems
+
+</td>
+
+<td width="33%" align="center">
+
+### 🩺 Healthcare
+
+Health Informatics  
+Healthcare AI  
+EHR / CDSS  
+Medical IoT
+
+</td>
+
+<td width="33%" align="center">
+
+### 🛡️ Security
+
+Cybersecurity  
+Anomaly Detection  
+Digital Twins  
+Secure Systems
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+☁︎ ˚₊‧ ✦ ‧₊˚ ☁︎ ˚₊‧ ୨୧ ‧₊˚ ☁︎
+
+</div>
+
+---
+
+## ✦ Things I'm Building
 
 ### 🧬 MorphoLock
 
 **Behavioural Biometrics × AI × Cybersecurity**
 
-A continuous authentication concept using behavioural micro-tremor patterns to detect anomalous activity.
+A continuous authentication concept that uses behavioural micro-tremor patterns to identify anomalous activity.
 
-`Python` `ML` `FFT` `Signal Processing` `Isolation Forest` `Arduino`
+`Python` `Machine Learning` `FFT` `Signal Processing` `Isolation Forest` `Arduino`
 
 ---
 
@@ -115,11 +99,11 @@ A continuous authentication concept using behavioural micro-tremor patterns to d
 
 **3D Security Digital Twin**
 
-A visual cybersecurity environment for exploring network attacks, threat propagation and security weaknesses.
+A visual cybersecurity environment for understanding network attacks, threat propagation and vulnerabilities.
 
 `Python` `FastAPI` `NetworkX` `React` `3D Visualization`
 
-Exploring:
+Currently exploring:
 
 `Attack Simulation` · `Blast Radius` · `Choke Points` · `Temporal Replay`
 
@@ -129,31 +113,30 @@ Exploring:
 
 Exploring intelligent healthcare systems involving:
 
-`EHR` · `CDSS` · `Healthcare Analytics` · `Medical IoT` · `Digital Health`
-
-<div align="center">
-
-✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧
-
-</div>
+`Healthcare Analytics` · `CDSS` · `EHR` · `Medical IoT` · `AI`
 
 ---
 
+<div align="center">
+
+✧･ﾟ: *✧･ﾟ:*　　*:･ﾟ✧*:･ﾟ✧
+
+</div>
+
 ## 🎪 Beyond Code
 
-I also enjoy the **people side of technology**.
+I also enjoy the **people and community side of technology**.
 
-`🎯 Recruitment` · `👥 Team Coordination`
-`🎤 Technical Events` · `💡 Hackathons`
-`📢 Community Building` · `🤝 Collaboration`
+`Recruitment` · `Team Coordination` · `Hackathons`  
+`Technical Events` · `Community Building` · `Leadership`
 
-I like being part of the journey where an idea goes from:
+From organizing teams to building projects, I enjoy the slightly chaotic journey of:
 
-**idea → team → chaos → building → demo → ✨**
+**idea → team → build → debug → demo → ✨**
 
 <div align="center">
 
-☁︎　୨୧　✦　🐾　✦　୨୧　☁︎
+୨୧　☁︎　✦　🐾　✦　☁︎　୨୧
 
 </div>
 
@@ -162,97 +145,58 @@ I like being part of the journey where an idea goes from:
 ## 🦋 Currently Exploring
 
 ```text
-AI Agents          ✦ Machine Learning
-Healthcare AI      ✦ Cybersecurity
-Data Analytics     ✦ Open Source
-System Design      ✦ Intelligent Systems
-```
+AI Agents              ✦  Machine Learning
+Healthcare AI          ✦  Cybersecurity
+Data Analytics         ✦  Open Source
+System Design          ✦  Intelligent Systems
+IoT & Embedded Tech    ✦  Digital Health
+⚙️ My Tech Garden
+Languages
 
----
+Python C++ Java JavaScript TypeScript
 
-## 💻 Tech Garden
+AI & Data
 
-### Languages
+Machine Learning TensorFlow Data Analytics Signal Processing
 
-`Python` `C++` `Java` `JavaScript` `TypeScript`
+Development
 
-### AI & Data
+React FastAPI Node.js Git GitHub Linux
 
-`Machine Learning` `TensorFlow` `Signal Processing` `Data Analytics`
+Hardware & IoT
 
-### Development
+Arduino IoT Sensors Embedded Systems
 
-`React` `FastAPI` `Node.js` `Git` `GitHub` `Linux`
+Healthcare
 
-### Hardware
-
-`Arduino` `IoT` `Sensors` `Embedded Systems`
-
-### Healthcare
-
-`EHR` `HL7/FHIR` `DICOM` `SNOMED CT` `LOINC` `ICD`
-
----
+EHR HL7/FHIR DICOM SNOMED CT LOINC ICD
 
 <div align="center">
-
-✦ ˚₊‧ ୨୧ ‧₊˚ ✦ ˚₊‧ ☁︎ ‧₊˚ ✦ ˚₊‧ ୨୧ ‧₊˚ ✦
-
-## 📊 Little GitHub Corner
-
-<br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kirtir729-del&show_icons=true&hide_border=true&bg_color=F5FAFF&title_color=2E6BE6&icon_color=2E6BE6&text_color=183B63&border_radius=16">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtir729-del&layout=compact&hide_border=true&bg_color=F5FAFF&title_color=2E6BE6&text_color=183B63&border_radius=16">
+🌱 GitHub Garden
+<br> <img src="https://github-readme-stats.vercel.app/api?username=kirtir729-del&show_icons=true&hide_border=true&bg_color=F5FAFF&title_color=2E6BE6&icon_color=2E6BE6&text_color=183B63&border_radius=16">
 
 <br><br>
 
 ☁︎　✦　♡　⋆｡°✩　🌷　✦　🦋　✦　♡　☁︎
 
 </div>
+💌 Let's Connect
+<div align="center"> <a href="https://www.linkedin.com/in/katyayani-roy-b500lb3399"> <img src="https://img.shields.io/badge/LinkedIn-2E6BE6?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
----
+  
 
-<div align="center">
-
-## 💌 Let's Connect
-
-<a href="https://www.linkedin.com/in/katyayani-roy-b500lb3399">
-<img src="https://img.shields.io/badge/LinkedIn-2E6BE6?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:kirtir729@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-4C9AF5?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<a href="mailto:kirtir729@gmail.com"> <img src="https://img.shields.io/badge/Gmail-4C9AF5?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 
 <br><br>
 
-˚₊‧ ୨୧ ‧₊˚
+☁︎　୨୧　✦　♡　🦋　♡　✦　୨୧　☁︎
+
+<br><br>
 
 <i>always building something interesting ✦</i>
-
-<br>
-
-☁︎　✦　♡　🌷　🐈‍⬛　🌷　♡　✦　☁︎
 
 <br><br>
 
 <sub>made with curiosity, caffeine & a suspicious number of tabs</sub>
 
-</div>
-```
-
-### One important thing before you push it
-
-Your first line:
-
-```html
-<img src="./assets/banner.jpg" width="100%" alt="Katyayani Roy">
-```
-
-will show **whatever image is currently inside `assets/banner.jpg`**.
-
-So before replacing your README, make sure that file is actually your **blue cat banner** and not the MorphoLock image.
-
-Once the correct cat is there, this README will give you the look you're after: **soft blue + cute doodles + animated intro + compact technical profile**, without turning the page into a giant CV.
+</div> ```
