@@ -190,13 +190,25 @@ EHR · HL7/FHIR · DICOM · SNOMED CT · LOINC
 <br>
 <div align="center">
 
-💌Lets connect
+<div align="center">
 
-💙 **LinkedIn:** [https://www.linkedin.com/in/katyayani-roy-b500lb3399](https://www.linkedin.com/in/katyayani-roy-b500lb3399)
+## 💌 Let's Connect ♡
 
-💌 **Gmail:** [kirtir729@gmail.com](mailto:kirtir729@gmail.com)
+I'd love to connect, collaborate, build something fun, or simply talk about technology and ideas! 🌷
 
 <br>
+
+💙 <a href="https://www.linkedin.com/in/katyayani-roy-b500lb3399">
+LinkedIn — https://www.linkedin.com/in/katyayani-roy-b500lb3399
+</a>
+
+<br>
+
+💌 <a href="mailto:kirtir729@gmail.com">
+Gmail — kirtir729@gmail.com
+</a>
+
+<br><br>
 
 ୨୧　☁️　🦋　♡　🌷　♡　🦋　☁️　୨୧
 
