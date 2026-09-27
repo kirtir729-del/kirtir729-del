@@ -24,132 +24,140 @@
 
 ## ୨୧ Hello!
 
-I'm **Katyayani**, a CSE student specializing in **Health Informatics**.
+Hi, I'm **Katyayani Roy** 🌷
 
-I like exploring the space where **technology meets real-world problems** — especially when that means mixing AI, healthcare, cybersecurity, hardware and a little bit of chaos.
+I'm a **CSE student specializing in Health Informatics**, curious about the intersection of technology, healthcare and intelligent systems.
 
-```text
-        🤖 AI
-         ↓
-     🩺 Healthcare
-         ↓
-    🛡️ Security
-         ↓
-    ⚙️ Intelligent Systems
-         ↓
-        ✦ IoT ✦
+I enjoy building things that combine:
 
-curious mind • creative builder • professional overthinker ♡
+**🤖 AI · 🩺 Healthcare · 🛡️ Cybersecurity · ⚙️ IoT**
+
+I'm especially interested in turning interesting ideas into actual projects, experiments and hackathon builds.
+
+> curious mind • creative builder • professional overthinker ♡
 
 ☁︎　✦　୨୧　🦋　୨୧　✦　☁︎
 
-🌷 What I Love Building
-🤖 AI	🩺 Healthcare	🛡️ Cybersecurity
-Machine Learning	Health Informatics	Anomaly Detection
-AI Agents	Healthcare AI	Digital Twins
-Data Analytics	EHR / CDSS	Secure Systems
-Intelligent Systems	Medical IoT	Threat Analysis
-<br> <div align="center">
+---
 
-☁︎ ───── ୨୧ ───── ☁︎
+## 🌷 What I Love Building
 
-</div>
-✦ Little Things I'm Building
-🧬 MorphoLock
+| 🤖 AI | 🩺 Healthcare | 🛡️ Cybersecurity |
+|---|---|---|
+| Machine Learning | Health Informatics | Anomaly Detection |
+| AI Agents | Healthcare AI | Digital Twins |
+| Data Analytics | EHR / CDSS | Secure Systems |
+| Intelligent Systems | Medical IoT | Threat Analysis |
 
-Behavioural Biometrics × AI × Cybersecurity
+---
+
+## ✦ Things I'm Building
+
+### 🧬 MorphoLock
+
+**Behavioural Biometrics × AI × Cybersecurity**
 
 A continuous authentication concept using behavioural micro-tremor patterns to detect anomalous activity.
 
-Python ML FFT Signal Processing Isolation Forest Arduino
+`Python` `Machine Learning` `FFT` `Signal Processing` `Isolation Forest` `Arduino`
 
-🌐 KRYPTIQ
+---
 
-3D Security Digital Twin
+### 🌐 KRYPTIQ
+
+**3D Security Digital Twin**
 
 A visual cybersecurity environment for exploring network attacks, vulnerabilities and threat propagation.
 
-Python FastAPI NetworkX React 3D
+`Python` `FastAPI` `NetworkX` `React` `3D`
 
-🩺 AI × Healthcare
+---
+
+### 🩺 AI × Healthcare
 
 Exploring intelligent healthcare systems involving:
 
-EHR · CDSS · Healthcare Analytics · Medical IoT · Digital Health
+`EHR` · `CDSS` · `Healthcare Analytics` · `Medical IoT` · `Digital Health`
 
-<div align="center">
+---
 
-✧･ﾟ: ✧･ﾟ:　　:･ﾟ✧:･ﾟ✧
+## 🦋 Currently Exploring
 
-</div>
-🦋 Currently Exploring
-<div align="center">
+`AI Agents` · `Machine Learning` · `Cybersecurity`
 
-AI Agents　Machine Learning　Cybersecurity
+`Healthcare AI` · `Open Source` · `System Design`
 
-Healthcare AI　Open Source　System Design
+`IoT` · `Data Analytics` · `Intelligent Systems`
 
-IoT　Data Analytics　Intelligent Systems
-
-<br><br>
+<br>
 
 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
 
-</div>
-🎪 Beyond Code
+---
 
-Technology isn't just about code for me.
+## 🎪 Beyond Code
+
+Technology isn't just about writing code.
 
 I also enjoy:
 
-🎯 Recruitment · 👥 Team Coordination
-🎤 Technical Events · 💡 Hackathons
-📢 Community Building · 🤝 Collaboration
+🎯 **Recruitment & HR**
+
+👥 **Team Coordination**
+
+🎤 **Technical Events**
+
+💡 **Hackathons**
+
+📢 **Community Building**
+
+🤝 **Collaboration**
 
 I love watching an idea go from:
 
-idea → team → chaos → building → debugging → demo ✨
-
-<br> <div align="center">
+**idea → team → chaos → building → debugging → demo ✨**
 
 ☁︎　୨୧　✦　🐾　✦　୨୧　☁︎
 
-</div>
-⚙️ My Tech Shelf
-Languages
+---
 
-Python · C++ · Java · JavaScript · TypeScript
+## ⚙️ My Tech Shelf
 
-Development
+### Languages
 
-React · FastAPI · Node.js · Git · GitHub
+`Python` · `C++` · `Java` · `JavaScript` · `TypeScript`
 
-AI & Data
+### Development
 
-Machine Learning · TensorFlow · Data Analytics · Signal Processing
+`React` · `FastAPI` · `Node.js` · `Git` · `GitHub`
 
-Hardware & IoT
+### AI & Data
 
-Arduino · IoT · Sensors · Embedded Systems
+`Machine Learning` · `TensorFlow` · `Data Analytics` · `Signal Processing`
 
-Healthcare
+### Hardware & IoT
 
-EHR · HL7/FHIR · DICOM · SNOMED CT · LOINC · ICD
+`Arduino` · `IoT` · `Sensors` · `Embedded Systems`
 
-<div align="center"> <br>
+### Healthcare
 
-☁️　✦　🌷　✦　🦋　✦　୨୧　✦　🐾　✦　☁️
+`EHR` · `HL7/FHIR` · `DICOM` · `SNOMED CT` · `LOINC` · `ICD`
 
-</div>
-💌 Let's Connect ♡
+---
+
+## 💌 Let's Connect ♡
 
 I'd love to connect, collaborate, build something fun, or simply talk about technology and ideas! 🌷
 
-💙 LinkedIn: https://www.linkedin.com/in/katyayani-roy-b500lb3399
+💙 **LinkedIn**
 
-💌 Gmail: mailto:kirtir729@gmail.com
+<https://www.linkedin.com/in/katyayani-roy-b500lb3399>
 
-<br>
+💌 **Gmail**
+
+<mailto:kirtir729@gmail.com>
+
+---
 
 ୨୧　☁️　🦋　♡　🌷　♡　🦋　☁️　୨୧
 
@@ -163,4 +171,4 @@ I'd love to connect, collaborate, build something fun, or simply talk about tech
 
 🦋 ˚₊‧ 🐾 ‧₊˚ 🦋
 
-</div> ```
+</div>
