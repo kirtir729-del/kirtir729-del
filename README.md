@@ -1,21 +1,34 @@
 <div align="center">
 
-<!-- ========================================================= -->
-<!--                        BANNER                              -->
-<!-- ========================================================= -->
-
-<img src="./assets/banner.png" ![Uploading github.jpg…]()
-width="100%" alt="Katyayani Roy">
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=2800&pause=800&color=2E6BE6&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Katyayani+Roy+%F0%9F%8C%B7;AI+%C3%97+Healthcare+%C3%97+Cybersecurity;Health+Informatics+%7C+Builder+%7C+Organizer;Machine+Learning+%7C+IoT+%7C+Intelligent+Systems;Building+ideas+people+remember+%E2%9C%A8" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=32&duration=2800&pause=800&color=2E6BE6&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Katyayani+Roy+%F0%9F%8C%B7;AI+%C3%97+Healthcare+%C3%97+Cybersecurity;Health+Informatics+%7C+Builder+%7C+Organizer;Machine+Learning+%7C+IoT+%7C+Intelligent+Systems;Building+ideas+people+remember+%E2%9C%A8" alt="Typing SVG">
 
 <br>
 
 <h3>
 🩵 AI &nbsp;•&nbsp; HEALTH INFORMATICS &nbsp;•&nbsp; CYBERSECURITY &nbsp;•&nbsp; INNOVATION
 </h3>
+
+<p>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-2E6BE6?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Health%20Informatics-4C9AF5?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cybersecurity-183B63?style=for-the-badge&logo=hackthebox&logoColor=white">
+<img src="https://img.shields.io/badge/Machine%20Learning-73B8FF?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/IoT-ADD8FF?style=for-the-badge&logo=arduino&logoColor=183B63">
+</p>
+
+<br>
+
+```text
+                         ☁️
+               ✦                   ✦
+
+          ──────── ♡ ────────
+
+       BUILD • LEARN • LEAD • CREATE
+
+          ──────── ☆ ────────
+
+             🐾         🐾
 
 <p>
 
