@@ -4,8 +4,6 @@
 
 <br><br>
 
-<!-- CUTE BLUE NAME -->
-
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=42&duration=1&pause=1000&color=2E6BE6&center=true&vCenter=true&width=650&height=80&lines=Katyayani+Roy+%F0%9F%8C%B7" alt="Katyayani Roy">
 
 <br>
@@ -41,81 +39,17 @@ I like exploring the space where **technology meets real-world problems** — es
          ↓
         ✦ IoT ✦
 
-☁︎ ˚₊‧ ✦ ‧₊˚ ୨୧ ˚₊‧ ✦ ‧₊˚ ☁︎
-
-</div>
-
----
-
-## ୨୧ Hello!
-
-I'm **Katyayani**, a CSE student specializing in **Health Informatics**.
-
-I like exploring the space where **technology meets real-world problems** — especially when that means mixing AI, healthcare, cybersecurity, hardware and a little bit of chaos.
-
-```text
-        🤖 AI
-         ↓
-     🩺 Healthcare
-         ↓
-    🛡️ Security
-         ↓
-    ⚙️ Intelligent Systems
-         ↓
-        ✦ IoT ✦
-
-<br>
-
-☁︎ ˚₊‧ ✦ ‧₊˚ ୨୧ ˚₊‧ ✦ ‧₊˚ ☁︎
-
-</div>
-
-## ୨୧ Hello!
-
-I'm **Katyayani**, a CSE student specializing in **Health Informatics**.
-
-I like exploring the space where **technology meets real-world problems** — especially when that means mixing AI, healthcare, cybersecurity, hardware and a little bit of chaos.
-
-```text
-        🤖 AI
-         ↓
-     🩺 Healthcare
-         ↓
-    🛡️ Security
-         ↓
-    ⚙️ Intelligent Systems
-         ↓
-        ✦ IoT ✦
-
 curious mind • creative builder • professional overthinker ♡
 
-<div align="center">
+☁︎　✦　୨୧　🦋　୨୧　✦　☁︎
+
 🌷 What I Love Building
-</div> <table> <tr> <td align="center" width="33%">
-🤖 AI
-
-Machine Learning
-AI Agents
-Data Analytics
-Intelligent Systems
-
-</td> <td align="center" width="33%">
-🩺 Healthcare
-
-Health Informatics
-Healthcare AI
-EHR / CDSS
-Medical IoT
-
-</td> <td align="center" width="33%">
-🛡️ Cybersecurity
-
-Anomaly Detection
-Digital Twins
-Secure Systems
-Threat Analysis
-
-</td> </tr> </table> <div align="center">
+🤖 AI	🩺 Healthcare	🛡️ Cybersecurity
+Machine Learning	Health Informatics	Anomaly Detection
+AI Agents	Healthcare AI	Digital Twins
+Data Analytics	EHR / CDSS	Secure Systems
+Intelligent Systems	Medical IoT	Threat Analysis
+<br> <div align="center">
 
 ☁︎ ───── ୨୧ ───── ☁︎
 
@@ -144,7 +78,12 @@ Exploring intelligent healthcare systems involving:
 EHR · CDSS · Healthcare Analytics · Medical IoT · Digital Health
 
 <div align="center">
+
+✧･ﾟ: ✧･ﾟ:　　:･ﾟ✧:･ﾟ✧
+
+</div>
 🦋 Currently Exploring
+<div align="center">
 
 AI Agents　Machine Learning　Cybersecurity
 
@@ -152,7 +91,7 @@ Healthcare AI　Open Source　System Design
 
 IoT　Data Analytics　Intelligent Systems
 
-<br>
+<br><br>
 
 ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
 
@@ -163,41 +102,65 @@ Technology isn't just about code for me.
 
 I also enjoy:
 
-🎯 Recruitment
-👥 Team Coordination
-🎤 Technical Events
-💡 Hackathons
-📢 Community Building
-🤝 Collaboration
+🎯 Recruitment · 👥 Team Coordination
+🎤 Technical Events · 💡 Hackathons
+📢 Community Building · 🤝 Collaboration
 
 I love watching an idea go from:
 
 idea → team → chaos → building → debugging → demo ✨
 
-<div align="center">
+<br> <div align="center">
+
+☁︎　୨୧　✦　🐾　✦　୨୧　☁︎
+
+</div>
 ⚙️ My Tech Shelf
+Languages
 
 Python · C++ · Java · JavaScript · TypeScript
 
+Development
+
 React · FastAPI · Node.js · Git · GitHub
 
-Machine Learning · TensorFlow · Data Analytics
+AI & Data
+
+Machine Learning · TensorFlow · Data Analytics · Signal Processing
+
+Hardware & IoT
 
 Arduino · IoT · Sensors · Embedded Systems
 
-EHR · HL7/FHIR · DICOM · SNOMED CT · LOINC
+Healthcare
 
-<br>
-<div align="center">
+EHR · HL7/FHIR · DICOM · SNOMED CT · LOINC · ICD
 
-## 💌 Let's Connect ♡
+<div align="center"> <br>
+
+☁️　✦　🌷　✦　🦋　✦　୨୧　✦　🐾　✦　☁️
+
+</div>
+💌 Let's Connect ♡
 
 I'd love to connect, collaborate, build something fun, or simply talk about technology and ideas! 🌷
 
-💙 **LinkedIn:** <https://www.linkedin.com/in/katyayani-roy-b500lb3399>
+💙 LinkedIn: https://www.linkedin.com/in/katyayani-roy-b500lb3399
 
-💌 **Gmail:** <mailto:kirtir729@gmail.com>
+💌 Gmail: mailto:kirtir729@gmail.com
+
+<br>
 
 ୨୧　☁️　🦋　♡　🌷　♡　🦋　☁️　୨୧
 
 ☁︎　✦　🌷　✦　🦋　✦　୨୧　✦　🐾　✦　☁︎
+
+<div align="center">
+
+<i>always building something interesting ✦</i>
+
+<br><br>
+
+🦋 ˚₊‧ 🐾 ‧₊˚ 🦋
+
+</div> ```
